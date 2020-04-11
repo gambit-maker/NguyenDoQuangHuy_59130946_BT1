@@ -44,9 +44,7 @@ public class NguyenDoQuangHuy_59130946_BT1 {
         
         System.out.println("Danh Sach Giao Vien\n");
         lh.inDSGVGD();
-        //Testing
-        
-                
+        System.out.println("Hello World");                       
     }
     
 }
