@@ -28,8 +28,8 @@ public class GiaoVien extends CaNhan{
                 + "Tuoi %d\n"
                 + "DiaChi %s\n"
                 + "SDT %s\n"
-                + "Lop %s\n"
-                + "NangKhieu %s",getHoten(),getTuoi(),getDiaChi(),getSoDT(),monDay,toBoMon);
+                + "MonDay %s\n"
+                + "ToBoMon %s",getHoten(),getTuoi(),getDiaChi(),getSoDT(),monDay,toBoMon);
     }
     
 }
