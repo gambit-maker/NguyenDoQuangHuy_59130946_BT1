@@ -43,8 +43,7 @@ public class NguyenDoQuangHuy_59130946_BT1 {
         lh.inDSHS();
         
         System.out.println("Danh Sach Giao Vien\n");
-        lh.inDSGVGD();
-        System.out.println("Hello World");                       
+        lh.inDSGVGD();                        
     }
     
 }
